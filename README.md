@@ -3,7 +3,7 @@
 
 732A92 Text Mining Course Project 
 
-Project Report : Project_farch587.pdf
+Project Report : 732A92-2021-PRA1-farch587.pdf
 
 Primary Classification : Imbalanced_data_analysis-Final.ipynb
 
